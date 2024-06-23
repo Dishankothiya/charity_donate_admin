@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1012246887440",
+    "project_id": "charity-donation-30a52",
+    "storage_bucket": "charity-donation-30a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012246887440:android:c5efa6fb983ea499349e95",
+        "android_client_info": {
+          "package_name": "com.example.charity_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012246887440-s6pnqvfamjq88ipn0h18kahvc6tep0sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAKVSWKKND62gA_q4nY27yU57hIie7dO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012246887440-s6pnqvfamjq88ipn0h18kahvc6tep0sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012246887440:android:ef31170af546930c349e95",
+        "android_client_info": {
+          "package_name": "com.example.charity_donation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012246887440-a3chdgr62tk03p0vv8fv8n720hft7auo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.charity_donation",
+            "certificate_hash": "646bd77c76a12ade3a082e58ce2ae960a8946923"
+          }
+        },
+        {
+          "client_id": "1012246887440-s6pnqvfamjq88ipn0h18kahvc6tep0sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAKVSWKKND62gA_q4nY27yU57hIie7dO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012246887440-s6pnqvfamjq88ipn0h18kahvc6tep0sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
